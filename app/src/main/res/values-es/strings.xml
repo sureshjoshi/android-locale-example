@@ -1,0 +1,5 @@
+<resources>
+    <string name="current_language">Español</string>
+    <string name="open">Abrir</string>
+    <string name="sample_text">Texto de ejemplo</string>
+</resources>

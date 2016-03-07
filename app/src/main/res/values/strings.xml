@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Locale Example</string>
+    <string name="current_language">English</string>
+    <string name="open">Open</string>
+    <string name="sample_text">Sample text</string>
+</resources>
